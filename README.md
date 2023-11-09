@@ -6,4 +6,4 @@ How to compile siesta using LUA and Flook library and run NEB calculations
 3. Use ESL-Bundle library files (Refer ESL-bundle): https://github.com/ElectronicStructureLibrary/esl-bundle
 4. Install Siesta 4.1.5 using arch make: https://gitlab.com/siesta-project/siesta/-/releases/v4.1.5
 
-In order to run the neb_plot.py ensure that you have run this command  grep NEB: <NAME OF YOUR OUTPUT FILE> and save it as neb_data.txt
+In order to run the neb_plot.py ensure that you have run this command  grep NEB: "your input file" and save it as neb_data.txt
